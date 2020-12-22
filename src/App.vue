@@ -30,7 +30,7 @@ export default {
   flex-direction: column;
   min-height: 100vh;
 }
-.toolbar {
+/* .toolbar {
   padding: 0.5em;
 }
 .toolbar-button,
@@ -40,11 +40,11 @@ export default {
 }
 .toolbar-search {
   float: right;
-}
-.note-container {
+} */
+/* .note-container {
   display: flex;
   flex: 1;
-}
+} */
 .note-selectors {
   flex: 0 0 13em;
 }

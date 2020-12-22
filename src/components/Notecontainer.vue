@@ -23,3 +23,10 @@
       </div>
     </div>
 </template>
+
+<style>
+.note-container {
+  display: flex;
+  flex: 1;
+}
+</style>
